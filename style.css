@@ -1,0 +1,9 @@
+#list {
+    display: flex;
+    justify-content: space-between;
+}
+.li-item {
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+}
